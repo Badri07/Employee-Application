@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Employee.Models.EmployeeDetails>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Employee List";
+}
+
+<style>
+    .table-container {
+        margin-left: 0px; /* Adjust margin as needed */
+        overflow-y: auto; /* Enable vertical scroll */
+        max-height: 500px; /* Set maximum height for scroll */
+    }
+
+    .table th {
+        font-size: 10px; /* Adjust font size for table headers */
+        text-align: center; /* Align headers center */
+        vertical-align: middle; /* Vertical alignment */
+    }
+
+    .table td {
+        font-size: 12px; /* Adjust font size for table data */
+        text-align: left; /* Align data left */
+        vertical-align: middle; /* Vertical alignment */
+    }
+
+    .table .text-center {
+        text-align: center; /* Align center */
+    }
+
+    .table .text-right {
+        text-align: right; /* Align right */
+    }
+
+    /* Adjust button size */
+    .btn-sm {
+        padding: 0.25rem 0.50rem; /* Adjust padding for smaller size */
+        font-size: 12px; /* Adjust font size for smaller size */
+    }
+
+    /* Add space between heading and button */
+    .heading {
+        margin-bottom: 20px; /* Adjust margin as needed */
+    }
+</style>
+
+<div class="table-container">
+    <h1 class="heading">Employee List</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Employee Code</th>
+                <th>Employee Name</th>
+                <th>Date of Birth</th>
+                <th>Gender</th>
+                <th>Department</th>
+                <th>Designation</th>
+                <th>Basic Salary</th>
+                <th>Dearness Allowance</th>
+                <th>Conveyance Allowance</th>
+                <th>HouseRent Allowance</th>
+                <th>Total Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.EmployeeCode</td>
+                    <td>@employee.EmployeeName</td>
+                    <td>@employee.DateOfBirth.ToShortDateString()</td>
+                    <td>@(employee.Gender ? "Male" : "Female")</td>
+                    <td class="text-center">@employee.Department</td>
+                    <td class="text-center">@employee.Designation</td>
+                    <td class="text-center">@employee.BasicSalary</td>
+                    <td class="text-center">@employee.DearnessAllowance</td>
+                    <td class="text-center">@employee.ConveyanceAllowance</td>
+                    <td class="text-center">@employee.HouseRentAllowance</td>
+                    <td class="text-center">@employee.TotalSalary</td>
+                    <td class="text-center">
+                        <a asp-action="Edit" asp-route-id="@employee.EmployeeCode" class="btn btn-primary btn-sm">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

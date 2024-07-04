@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCIF project\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\views\\employees\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:views\\employees\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|d:\\hcif project\\employee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{68B48E7B-D1E2-4D9C-AA53-19C009BF8D02}|Employee.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\HCIF project\\Employee\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwC4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:55:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HCIF project\\Employee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T10:35:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\HCIF project\\Employee\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T10:46:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HCIF project\\Employee\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAgwO4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:51:52.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HCIF project\\Employee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:05:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Views\\Employees\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Error.cshtml",
+              "ToolTip": "D:\\HCIF project\\Employee\\Views\\Employees\\Error.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Error.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T13:17:15.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\HCIF project\\Employee\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T12:58:06.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HCIF project\\Employee\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T07:49:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\HCIF project\\Employee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:45:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\HCIF project\\Employee\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T07:49:24.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HCIF project\\Employee\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:02:28.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.rtl.css.map",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+              "ToolTip": "D:\\HCIF project\\Employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABJ3wAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T10:27:05.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\Employee.csproj",
+              "RelativeDocumentMoniker": "Employee.csproj",
+              "ToolTip": "D:\\HCIF project\\Employee\\Employee.csproj",
+              "RelativeToolTip": "Employee.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T10:27:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "D:\\HCIF project\\Employee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAD8BAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T10:27:30.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "D:\\HCIF project\\Employee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABk3wAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-04T10:27:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\HCIF project\\Employee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\HCIF project\\Employee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAAAMcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T10:27:00.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
